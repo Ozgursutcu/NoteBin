@@ -1,1 +1,1 @@
-# note_page
+# NoteBin
